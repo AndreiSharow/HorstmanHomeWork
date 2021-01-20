@@ -1,0 +1,7 @@
+
+
+
+Посмотрел суперкласы для классов String,Scanner,ImageOutputStream в самих исходных кодах классов.
+Super for String: Serializable, Comparable<String>, CharSequence;
+Super for Scanner: Iterator<String>, Closeable;
+Super for ImageOutputStream:ImageInputStream, DataOutput;
